@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MenuCard.Droid</string>
+  <string name="title">Example of menu card</string>
+  <string name="updater">Refresh</string>
+</resources>
